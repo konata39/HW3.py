@@ -1,5 +1,4 @@
-# -*- coding: utf8 -*-
-# coding: utf8
+#encoding=utf-8
 # 這邊宣告
 import sys
 import re
